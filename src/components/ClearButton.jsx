@@ -12,7 +12,7 @@ class ClearButton extends EnhancedButton {
 
     render() {
         if (this.state.clear) {
-            window.location.replace('http://localhost:3000')
+            window.location.href = '/'
         }
 
         return (

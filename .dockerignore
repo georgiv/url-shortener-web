@@ -1,0 +1,7 @@
+.dockerignore
+.git
+Dockerfile
+node_modules
+build
+package-lock.json
+yarn.lock
